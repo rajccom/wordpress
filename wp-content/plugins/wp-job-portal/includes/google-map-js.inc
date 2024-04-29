@@ -1,0 +1,1 @@
+<script type="text/javascript" src="{PROTOCOL}maps.googleapis.com/maps/api/js?key={KEY}"></script>
